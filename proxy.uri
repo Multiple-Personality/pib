@@ -1,0 +1,10 @@
+https://github.com/Multiple-Personality/pib/raw/main/proxy/1080.txt"|"file
+https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all"|"file
+https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks4&timeout=10000&country=all"|"file
+https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks5&timeout=10000&country=all"|"file
+https://free-proxy-list.net|w_didsoft
+https://www.socks-proxy.net|w_didsoft
+https://www.us-proxy.org|w_didsoft
+https://free-proxy-list.net/uk-proxy.html|w_didsoft
+https://www.sslproxies.org|w_didsoft
+https://free-proxy-list.net/anonymous-proxy.html|w_didsoft
